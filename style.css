@@ -1,11 +1,12 @@
 body{
-    background-color:#fef6e4
+    background-color: black;
+    color: white;
 }
 h1{
-    background-color:#fef6e4
+    background-color:white;
 }
-img{
-    width: 400px;
-    float: left;
-    margin-right: 10px;
+
+.bg-mycolor {
+    background-color: white;
+    
 }
